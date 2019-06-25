@@ -42,7 +42,7 @@ Bill Of Materials
 - 1 ea., 1x40Pin 2.54mm Straight Pin Header - Red
 - 1 ea., 1x40Pin 2.54mm Straight Pin Header - Black
 - 1 ea., 1x4 pin 2.54mm Socket Connector
-- 1 ea., 1x15 pin 2.54mm Socket Connector
+- 2 ea., 1x15 pin 2.54mm Socket Connector
 - 1 ea., Aluminum Heatsink Heat Sink with Screw Sets TO-220 Transistor 20×15×10mm
 
 
