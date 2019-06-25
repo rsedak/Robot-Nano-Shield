@@ -25,9 +25,10 @@ Contributors
 
 Application
 -----------
-Petar Jurković made video with Robot Nano Shield applicatino in his robot:
+Petar Jurković made video with Robot Nano Shield application in his robot:
 [![Shield application](http://img.youtube.com/vi/B9CNlWZxvcw/0.jpg)](http://www.youtube.com/watch?v=B9CNlWZxvcw "Shield application")
 
+######Petar Jurković's Robot Nano Shield application
 ![Robot Nano Shield Application](images/petar_jurkovic_s_application.jpg) 
 
 Bill Of Materials
