@@ -23,6 +23,12 @@ Contributors
 - Ines Sedak drew PCB back side picture.
 - Robert Sedak did all design.
 
+Application
+-----------
+Petar Jurković made video with Robot Nano Shield applicatino in his robot:
+[![Shield application](http://img.youtube.com/vi/B9CNlWZxvcw/0.jpg)](http://www.youtube.com/watch?v=B9CNlWZxvcw "Shield application")
+
+![Robot Nano Shield Application](https://flic.kr/p/2gizjZQ) 
 
 Bill Of Materials
 -----------------
