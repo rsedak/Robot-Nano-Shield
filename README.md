@@ -1,7 +1,6 @@
 Introduction
 ============
 
-![Project](images/project.png) 
 Robot Nano Shield is Arduino Nano based shield for robots with dimentions compatibile with Lego(TM) liftarms.
 For voltage stability L78S05CV Positive-Voltage regulator is used, and for power supply you can use two Li-Ion 18650 batteries.
 During programming please keep in mind next design rules:
@@ -20,9 +19,9 @@ Bluetooth module has to be disconnected during uploading a program to the Arduin
 
 Contributors
 ------------
-Petar Jurković had an idea for the shield with dimensions and features.
-Ines Sedak drew PCB back side picture.
-Robert Sedak did all design.
+- Petar Jurković had an idea for the shield with dimensions and features.
+- Ines Sedak drew PCB back side picture.
+- Robert Sedak did all design.
 
 
 Bill Of Materials
